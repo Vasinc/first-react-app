@@ -1,0 +1,24 @@
+.clicker-wrapper {
+    margin: auto;
+    padding: 1rem;
+    width: 80%;
+    background: #aaaaaa;
+    border-radius: .5rem;
+}
+
+button {
+    padding: 1rem 2rem;
+    background: blue;
+    color: white;
+    font-weight: 700;
+    border: none;
+    border-radius: .5rem;
+    cursor: pointer;
+}
+
+p {
+    margin: 1rem 0;
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: #ffff4a
+}
